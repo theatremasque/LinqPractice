@@ -1,0 +1,14 @@
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\bin\Debug\net8.0\Tests.App.exe
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\bin\Debug\net8.0\Tests.App.deps.json
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\bin\Debug\net8.0\Tests.App.runtimeconfig.json
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\bin\Debug\net8.0\Tests.App.dll
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\bin\Debug\net8.0\Tests.App.pdb
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\Tests.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\Tests.App.AssemblyInfoInputs.cache
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\Tests.App.AssemblyInfo.cs
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\Tests.App.csproj.CoreCompileInputs.cache
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\Tests.App.dll
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\refint\Tests.App.dll
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\Tests.App.pdb
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\Tests.App.genruntimeconfig.cache
+C:\Users\alexk\RiderProjects\LinqExams\Tests.App\obj\Debug\net8.0\ref\Tests.App.dll
